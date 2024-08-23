@@ -22,10 +22,11 @@ Built with modern web technologies, MyDestinyCard offers a responsive and intera
 - **Responsive Design Techniques:** Ensures the application works well across different devices and screen sizes, enhancing accessibility and usability.
 
 ## Author
-**Helen Patterson**  
-Email: helen05898@outlook.com  
-Website: MyDestinyCard
-Helen Patterson is a master coder with extensive experience in building robust web applications. Known for her helping nature and deep understanding of modern web technologies, she excels in creating user-centric solutions.
+- **Name:** Helen Patterson 
+- **Email:** helen05898@outlook.com  
+- **Website:** MyDestinyCard
+
+- Helen Patterson is a master coder with extensive experience in building robust web applications. Known for her helping nature and deep understanding of modern web technologies, she excels in creating user-centric solutions.
 
 ## Getting Started
 To get started with MyDestinyCard:
