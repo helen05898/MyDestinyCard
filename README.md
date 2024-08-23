@@ -21,7 +21,6 @@ Built with modern web technologies, MyDestinyCard offers a responsive and intera
 - **React Scripts:** A set of scripts that simplifies the development, testing, and building processes for React applications.
 - **Responsive Design Techniques:** Ensures the application works well across different devices and screen sizes, enhancing accessibility and usability.
 
-
 ## Author
 **Helen Patterson**  
 Email: helen05898@outlook.com  
