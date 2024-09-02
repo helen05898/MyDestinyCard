@@ -34,7 +34,7 @@ To get started with MyDestinyCard:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/MyDestinyCard.git
+   git clone https://github.com/helen05898/MyDestinyCard.git
 
 2. **Navigate to the Project Directory**:
    ```bash
