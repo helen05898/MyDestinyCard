@@ -24,7 +24,7 @@ Built with modern web technologies, MyDestinyCard offers a responsive and intera
 ## Author
 - **Name:** Helen Patterson 
 - **Email:** helen05898@outlook.com  
-- **Website:** MyDestinyCard
+- **Website:** [MyDestinyCard](https://www.mydestiny-card.com)
 
 - Helen Patterson is a master coder with extensive experience in building robust web applications.
 - Known for her helping nature and deep understanding of modern web technologies, she excels in creating user-centric solutions.
